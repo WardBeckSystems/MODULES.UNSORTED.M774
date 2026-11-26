@@ -33,7 +33,7 @@ Controller module functional Title block at bottom left reading sideways.
 - **Words (OCR):** 2 in 2 lines: 72 · Hi
 - **Wiring (first pass):** 163 connected wire groups from 639 runs; labelled ends: 87 mm → 72; 81 mm → Hi; 75 mm → 72; 42 mm → 72; 19 mm → 72
 
-Every curve, box, word and wire group: [19xx - 774-01-002 - M774A M776A CONTROLLER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20774-01-002%20-%20M774A%20M776A%20CONTROLLER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 774-01-002 - M774A M776A CONTROLLER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 774-01-002 - M774A M776A CONTROLLER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20774-01-002%20-%20M774A%20M776A%20CONTROLLER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 774-01-002 - M774A M776A CONTROLLER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

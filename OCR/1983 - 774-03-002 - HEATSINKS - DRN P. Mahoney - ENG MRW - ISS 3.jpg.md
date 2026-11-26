@@ -36,7 +36,7 @@ Wiki page: [M774](../../../../PAGES/M774.md)
 - **Words (OCR):** 58 in 47 lines: 4.00 · 1.45 · ~128 DIA. ~ 2PLACES · 1.45 · 1.100- · .128 DIA~2 PLACES · 1.00 · 2.00 · 062 · TyP · 4.00 · HEATSINK
 - **Title block:** (278, 5)–(431, 72) mm: Jne8i · 61 · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: / Madons_ · ENG. MpW · M774 · CKD · HEATSINKS · APP Qm · SCALE 1:1 · ISSUE · 015 · 774-03-002 · AX 1.005
 
-Every curve, box, word and wire group: [1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3 (traced).json](../MECHANICAL/1983%20-%20774-03-002%20-%20HEATSINKS%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%203%20(traced).json) (the CAD file: `1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3 (traced).json](../MECHANICAL/1983%20-%20774-03-002%20-%20HEATSINKS%20-%20DRN%20P.%20Mahoney%20-%20ENG%20MRW%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1983 - 774-03-002 - HEATSINKS - DRN P. Mahoney - ENG MRW - ISS 3 (traced).dxf`).
 
 ## Full text
 
